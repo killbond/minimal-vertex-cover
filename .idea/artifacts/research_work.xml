@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="research-work">
+    <output-path>$PROJECT_DIR$/out/artifacts/research_work</output-path>
+    <root id="archive" name="research-work.jar">
+      <element id="module-output" name="research-work-discrete-optimization" />
+    </root>
+  </artifact>
+</component>
